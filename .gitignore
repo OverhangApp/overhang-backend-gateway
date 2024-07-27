@@ -1,4 +1,11 @@
-# Compiled class file
+# Secrets
+.env*
+
+# VSCode
+.vscode/
+
+# Build
+target/
 *.class
 
 # Log file
